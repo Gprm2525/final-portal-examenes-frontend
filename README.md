@@ -1,9 +1,14 @@
 # SistemaExamenes
 
 #INTEGRANTES:
-Manco Bruno Fiorella Harumy
-Ruitón Mauricci Giorgio Paolo
-Santiago Yalán Briyan Enrique
+<br>
+- Manco Bruno Fiorella Harumy
+<br>
+- Ruitón Mauricci Giorgio Paolo
+<br>
+- Santiago Yalán Briyan Enrique
+
+##########################################################
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
 
