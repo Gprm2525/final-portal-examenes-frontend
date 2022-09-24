@@ -2,11 +2,11 @@
 
 #INTEGRANTES:
 <br>
-- Manco Bruno Fiorella Harumy
+Manco Bruno Fiorella Harumy
 <br>
-- Ruitón Mauricci Giorgio Paolo
+Ruitón Mauricci Giorgio Paolo
 <br>
-- Santiago Yalán Briyan Enrique
+Santiago Yalán Briyan Enrique
 
 ##########################################################
 
